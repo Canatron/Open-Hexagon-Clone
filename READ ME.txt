@@ -1,0 +1,69 @@
+NOTE: (almost) all of my games lack sufficient explanations of controls and game objective, as when making them, I would just tell my friends how to play the games. Read the game descriptions for how to play, if you would like to test them out.
+
+(Also note, all of these games were made using Javascript, and the online component using socket.io and node.js for server side.)
+(all code relating to p5.js, node.js, and three.js are not mine, I used these as libraries)
+
+
+
+Open Hexagon Clone -
+
+
+This game is a copy of the "famous" game that shares the same name, Open Hexagon. Features 2D graphics, a cool soundtrack, and pretty colours.
+
+The game can be found at this link: https://open-hexagon.herokuapp.com/
+
+Controls: 
+
+left and right keys to select level, press space to play
+left and right to move in game.
+
+
+
+
+
+Beyonders.io -
+
+NOTE: all client side code (including my code, and library code) is all in one file. I did this because back then I didn't know how to properly send an entire file to the client using heroku. (Sorry for the confusing source code.)
+
+This game was my largest project. Containing around 3000 lines of code on the server side, and maybe about 1000 lines of code on the client side, this game aimed to be a online multiplayer game much like Agar.io back when it was extremely popular (years ago).
+
+Being one of my first projects ever, this huge project eventually ended once I encountered a bug that caused crashing related to multiple players doing something (I still don't know how it crashes). However, this game was a learning experience, and I had fun making it (and fun testing it out with all of my friends).
+
+The game can be found at this link: https://beyonders.herokuapp.com/
+
+Controls:
+
+WASD to move around, mouse and click to shoot.
+Q and E to switch guns.
+Keep moving right to advance in the game and reach harder Areas.
+
+
+
+
+
+
+Fead by Faylight -
+
+A clone of a popular game called "Dead by Daylight". One of my games where I experiemented with 3D graphics (very cool looking). This game is multiplayer online just like the previous game, but MUST have minimum two players in order to play. In this game, a "killer" chases down the survivors and stops them from escaping. I used Three.js.
+
+The game can be found at this link: https://fead-by-faylight.herokuapp.com/
+
+Controls - 
+
+WASD to move, mouse to look, and spacebar to interact with objects.
+
+
+
+
+"Node three.js project" - (creative name, I know)
+
+*Note: I did not make the gun models in this game, they were taken from the internet.*
+
+This game was originally just a test of making games with 3D graphics. It started as a game where you escape the rising lava, but now it ended as a pretty terrain with unnessesary guns which you can shoot. Used Three.js on this game too.
+
+The game can be found at this link: https://lava-escape.herokuapp.com/
+
+Controls:
+
+WASD to move around, mouse and click to shoot.
+Q to switch guns.
